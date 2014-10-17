@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xaw:home|Door43 (xaw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xaw|d43-xaw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xaw/archive/master.zip|d43-xaw.zip]]
+
+**Recent Changes**
+{{changes>ns = xaw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xaw|Ethnologue data]]
+
